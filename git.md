@@ -10,4 +10,4 @@
 ```git add .```
 
 ## commitar mudanças preparadas
-```git commit -m "texto descritivo da mudança"```
+```git commit -m "texto bastante descritivo da mudança"```
